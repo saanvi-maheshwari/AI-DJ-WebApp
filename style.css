@@ -1,0 +1,33 @@
+.heading{
+    font-size: 20px;
+    font-family: cursive;
+    width: 100%;
+    margin-top: 0;
+    /* position: fixed;
+    top:0; */
+}
+
+#background_image{
+background-repeat: no-repeat;
+  background-size:contain;
+  float: left;
+  width: 400px;
+  
+}
+
+#background_image1{
+    background-repeat: no-repeat;
+      background-size:contain;
+      float: right;
+      width: 400px;
+      
+    }
+
+
+.disks{
+    height: 200px;
+    width: 200px;
+}
+
+
+
