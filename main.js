@@ -8,7 +8,7 @@ right_wristY = 0;
 right_wristX = 0;
  
 function preload(){
-    song_1 = loadSound("Kill-This-Love.mp3");
+    song_1 = loadSound("kill.mp3");
     song_2 = loadSound("bts-butter.mp3");
  
 }
